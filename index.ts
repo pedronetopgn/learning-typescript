@@ -7,3 +7,4 @@ const num2 = 15;
 
 const resultado = somar(num1,num2);
 console.log(resultado);
+// FIM
